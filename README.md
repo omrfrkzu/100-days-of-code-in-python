@@ -1,112 +1,115 @@
 ## 🔰 Başlangıç Seviyesi
-- [Gün 1:](https://github.com/phillipai/100-days-of-code-python/tree/main/day01) Python'da Veri Yönetimi için Değişkenlerle Çalışma
-- [Gün 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Veri Türlerini Anlama ve String'leri Manipüle Etme
-- [Gün 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Kontrol Akışı ve Mantıksal Operatörler
-- [Gün 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Rastgelelik ve Python Listeleri
-- [Gün 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Döngüleri
-- [Gün 6:](https://github.com/phillipai/100-days-of-code-python/tree/main/day06) Python Fonksiyonları ve Karel
-- [Gün 7:](https://github.com/phillipai/100-days-of-code-python/tree/main/day07) Adam Asmaca
-- [Gün 8:](https://github.com/phillipai/100-days-of-code-python/tree/main/day08) Fonksiyon Parametreleri ve Sezar Şifresi
-- [Gün 9:](https://github.com/phillipai/100-days-of-code-python/tree/main/day09) Sözlükler, İç İçe Yapılar ve Gizli Müzayede
-- [Gün 10:](https://github.com/phillipai/100-days-of-code-python/tree/main/day10) Çıktılı Fonksiyonlar
-- [Gün 11:](https://github.com/phillipai/100-days-of-code-python/tree/main/day11) Blackjack Proje Dönemi
-- [Gün 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Kapsam ve Sayı Tahmin Oyunu
-- [Gün 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Hata Ayıklama: Kodunuzdaki Hataları Bulma ve Düzeltme
-- [Gün 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Yüksek Düşük Oyun Projesi
+- [Gün 1:](srcs/day01) Python'da Veri Yönetimi için Değişkenlerle Çalışma
+- [Gün 2:](srcs/day02) Veri Türlerini Anlama ve String'leri Manipüle Etme
+- [Gün 3:](srcs/day03) Kontrol Akışı ve Mantıksal Operatörler
+- [Gün 4:](srcs/day04) Rastgelelik ve Python Listeleri
+- [Gün 5:](srcs/day05) Python Döngüleri
+- [Gün 6:](srcs/day06) Python Fonksiyonları ve Karel
+- [Gün 7:](srcs/day07) Adam Asmaca
+- [Gün 8:](srcs/day08) Fonksiyon Parametreleri ve Sezar Şifresi
+- [Gün 9:](srcs/day09) Sözlükler, İç İçe Yapılar ve Gizli Müzayede
+- [Gün 10:](srcs/day10) Çıktılı Fonksiyonlar
+- [Gün 11:](srcs/day11) Blackjack Proje Dönemi
+- [Gün 12:](srcs/day12) Kapsam ve Sayı Tahmin Oyunu
+- [Gün 13:](srcs/day13) Hata Ayıklama: Kodunuzdaki Hataları Bulma ve Düzeltme
+- [Gün 14:](srcs/day14) Yüksek Düşük Oyun Projesi
+
 
 ## 📚 Orta Seviye
-- [Gün 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Yerel Geliştirme Ortamı Kurulumu ve Kahve Makinesi
-- [Gün 16:](https://github.com/phillipai/100-days-of-code-python/tree/main/day16) Nesne Yönelimli Programlama (OOP)
-- [Gün 17:](https://github.com/phillipai/100-days-of-code-python/tree/main/day17) Quiz Projesi ve OOP'nin Faydaları
-- [Gün 18:](https://github.com/phillipai/100-days-of-code-python/tree/main/day18) Kaplumbağa ve Grafiksel Kullanıcı Arayüzü (GUI)
-- [Gün 19:](https://github.com/phillipai/100-days-of-code-python/tree/main/day19) Örnekler, Durum ve Yüksek Seviye Fonksiyonlar
-- [Gün 20:](https://github.com/phillipai/100-days-of-code-python/tree/main/day20) Yılan Oyununu İnşa Etme Bölüm 1: Animasyon ve Koordinatlar
-- [Gün 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Yılan Oyununu İnşa Etme Bölüm 2: Miras ve Liste Dilimleme
-- [Gün 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Pong: Ünlü Arcade Oyunu
-- [Gün 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) Kaplumbağa Geçiş Projesi
-- [Gün 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Dosyalar, Diziler ve Yollar
-- [Gün 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) CSV Verileriyle Çalışma ve Pandas Kütüphanesi
-- [Gün 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) Liste Kapsamı ve NATO Alfabesi
-- [Gün 27:](https://github.com/phillipai/100-days-of-code-python/tree/main/day27) Tkinter, *args, **kwargs ve GUI Programları Oluşturma
-- [Gün 28:](https://github.com/phillipai/100-days-of-code-python/tree/main/day28) Tkinter, Dinamik Tipler ve Pomodoro GUI Uygulaması
-- [Gün 29:](https://github.com/phillipai/100-days-of-code-python/tree/main/day29) Tkinter ile Bir Şifre Yöneticisi GUI Uygulaması Oluşturma
-- [Gün 30:](https://github.com/phillipai/100-days-of-code-python/tree/main/day30) Hatalar, İstisnalar ve JSON Verileri: Şifre Yöneticisini Geliştirme
-- [Gün 31:](https://github.com/phillipai/100-days-of-code-python/tree/main/day31) Flash Kart Uygulaması Kapstone Projesi
+- [Gün 15:](srcs/day15) Yerel Geliştirme Ortamı Kurulumu ve Kahve Makinesi
+- [Gün 16:](srcs/day16) Nesne Yönelimli Programlama (OOP)
+- [Gün 17:](srcs/day17) Quiz Projesi ve OOP'nin Faydaları
+- [Gün 18:](srcs/day18) Kaplumbağa ve Grafiksel Kullanıcı Arayüzü (GUI)
+- [Gün 19:](srcs/day19) Örnekler, Durum ve Yüksek Seviye Fonksiyonlar
+- [Gün 20:](srcs/day20) Yılan Oyununu İnşa Etme Bölüm 1: Animasyon ve Koordinatlar
+- [Gün 21:](srcs/day21) Yılan Oyununu İnşa Etme Bölüm 2: Miras ve Liste Dilimleme
+- [Gün 22:](srcs/day22) Pong: Ünlü Arcade Oyunu
+- [Gün 23:](srcs/day23) Kaplumbağa Geçiş Projesi
+- [Gün 24:](srcs/day24) Dosyalar, Diziler ve Yollar
+- [Gün 25:](srcs/day25) CSV Verileriyle Çalışma ve Pandas Kütüphanesi
+- [Gün 26:](srcs/day26) Liste Kapsamı ve NATO Alfabesi
+- [Gün 27:](srcs/day27) Tkinter, *args, **kwargs ve GUI Programları Oluşturma
+- [Gün 28:](srcs/day28) Tkinter, Dinamik Tipler ve Pomodoro GUI Uygulaması
+- [Gün 29:](srcs/day29) Tkinter ile Bir Şifre Yöneticisi GUI Uygulaması Oluşturma
+- [Gün 30:](srcs/day30) Hatalar, İstisnalar ve JSON Verileri: Şifre Yöneticisini Geliştirme
+- [Gün 31:](srcs/day31) Flash Kart Uygulaması Kapstone Projesi
 
 ## 👨‍💻 Orta Seviye+
-- [Gün 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) E-posta Gönderme (smtplib) ve Tarihleri Yönetme (datetime) - Otomatik Doğum Günü Hatırlatıcı
-- [Gün 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Uç Noktaları ve API Parametreleri - ISS Üzerinden Geçiş Bildirici
-- [Gün 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Pratiği - GUI Quiz Uygulaması Oluşturma
-- [Gün 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Anahtarlar, Kimlik Doğrulama ve Çevresel Değişkenler - Telegram Yağmur Bildirici
-- [Gün 36:](https://github.com/phillipai/100-days-of-code-python/tree/main/day36) Hisse Senedi Ticaret Haberleri Uyarı Projesi
-- [Gün 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Alışkanlık Takip Projesi: API POST İstekleri ve Başlıklar
-- [Gün 38:](https://github.com/phillipai/100-days-of-code-python/tree/main/day38) Google Sayfaları Kullanarak Egzersiz Takibi
-- [Gün 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Kapstone Bölüm 1: Uçuş Fırsatlarını Bulma
-- [Gün 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Kapstone Bölüm 2: Uçuş Kulübü
-- [Gün 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) HTML'e Giriş
-- [Gün 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Orta Seviye HTML
-- [Gün 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) CSS'e Giriş
-- [Gün 44:](https://github.com/phillipai/100-days-of-code-python/tree/main/day44) Orta Seviye CSS
-- [Gün 45:](https://github.com/phillipai/100-days-of-code-python/tree/main/day45) Beautiful Soup ile Web Kazıma
-- [Gün 46:](https://github.com/phillipai/100-days-of-code-python/tree/main/day46) Müzikal Zaman Makinesi Kullanarak Spotify Çalma Listesi Oluşturma
-- [Gün 47:](https://github.com/phillipai/100-days-of-code-python/tree/main/day47) Otomatik Amazon Fiyat Takipçisi Oluşturma
-- [Gün 48:](https://github.com/phillipai/100-days-of-code-python/tree/main/day48) Selenium Webdriver ile Tarayıcı ve Oyun Oynama Botu
-- [Gün 49:](https://github.com/phillipai/100-days-of-code-python/tree/main/day49) Gmail'den Gelen Mesajları Okuma ve Yükleme
-- [Gün 50:](https://github.com/phillipai/100-days-of-code-python/tree/main/day50) Flask ile İlişkisel Veri Tabanı Uygulaması Geliştirme
-- [Gün 51:](https://github.com/phillipai/100-days-of-code-python/tree/main/day51) İnternet Hızı Twitter Şikayet Botu
-- [Gün 52:](https://github.com/phillipai/100-days-of-code-python/tree/main/day52) Instagram Takipçi Botu
-- [Gün 53:](https://github.com/phillipai/100-days-of-code-python/tree/main/day53) Web Scraping Capstone - Veri Girişi İş Otomasyonu
-- [Gün 54:](https://github.com/phillipai/100-days-of-code-python/tree/main/day54) Flask ile Web Geliştirmeye Giriş
-- [Gün 55:](https://github.com/phillipai/100-days-of-code-python/tree/main/day55) Flask'ta HTML & URL Ayrıştırma ve Yüksek Düşük Oyunu
-- [Gün 56:](https://github.com/phillipai/100-days-of-code-python/tree/main/day56) HTML/Durağan Dosyaların İşlenmesi ve Web Sitesi Şablonlarının Kullanımı
-- [Gün 57:](https://github.com/phillipai/100-days-of-code-python/tree/main/day57) Flask Uygulamalarında Jinja ile Şablonlama
-- [Gün 58:](https://github.com/phillipai/100-days-of-code-python/tree/main/day58) Web Temeli Bootstrap
+- [Gün 32:](srcs/day32) E-posta Gönderme (smtplib) ve Tarihleri Yönetme (datetime) - Otomatik Doğum Günü Hatırlatıcı
+- [Gün 33:](srcs/day33) API Uç Noktaları ve API Parametreleri - ISS Üzerinden Geçiş Bildirici
+- [Gün 34:](srcs/day34) API Pratiği - GUI Quiz Uygulaması Oluşturma
+- [Gün 35:](srcs/day35) Anahtarlar, Kimlik Doğrulama ve Çevresel Değişkenler - Telegram Yağmur Bildirici
+- [Gün 36:](srcs/day36) Hisse Senedi Ticaret Haberleri Uyarı Projesi
+- [Gün 37:](srcs/day37) Alışkanlık Takip Projesi: API POST İstekleri ve Başlıklar
+- [Gün 38:](srcs/day38) Google Sayfaları Kullanarak Egzersiz Takibi
+- [Gün 39:](srcs/day39) Kapstone Bölüm 1: Uçuş Fırsatlarını Bulma
+- [Gün 40:](srcs/day40) Kapstone Bölüm 2: Uçuş Kulübü
+- [Gün 41:](srcs/day41) HTML'e Giriş
+- [Gün 42:](srcs/day42) Orta Seviye HTML
+- [Gün 43:](srcs/day43) CSS'e Giriş
+- [Gün 44:](srcs/day44) Orta Seviye CSS
+- [Gün 45:](srcs/day45) Beautiful Soup ile Web Kazıma
+- [Gün 46:](srcs/day46) Müzikal Zaman Makinesi Kullanarak Spotify Çalma Listesi Oluşturma
+- [Gün 47:](srcs/day47) Otomatik Amazon Fiyat Takipçisi Oluşturma
+- [Gün 48:](srcs/day48) Selenium Webdriver ile Tarayıcı ve Oyun Oynama Botu
+- [Gün 49:](srcs/day49) Gmail'den Gelen Mesajları Okuma ve Yükleme
+- [Gün 50:](srcs/day50) Flask ile İlişkisel Veri Tabanı Uygulaması Geliştirme
+- [Gün 51:](srcs/day51) İnternet Hızı Twitter Şikayet Botu
+- [Gün 52:](srcs/day52) Instagram Takipçi Botu
+- [Gün 53:](srcs/day53) Web Scraping Capstone - Veri Girişi İş Otomasyonu
+- [Gün 54:](srcs/day54) Flask ile Web Geliştirmeye Giriş
+- [Gün 55:](srcs/day55) Flask'ta HTML & URL Ayrıştırma ve Yüksek Düşük Oyunu
+- [Gün 56:](srcs/day56) HTML/Durağan Dosyaların İşlenmesi ve Web Sitesi Şablonlarının Kullanımı
+- [Gün 57:](srcs/day57) Flask Uygulamalarında Jinja ile Şablonlama
+- [Gün 58:](srcs/day58) Web Temeli Bootstrap
 
 ## 🏆 İleri Seviye
-- [Gün 59:](https://github.com/phillipai/100-days-of-code-python/tree/main/day59) Blog Capstone Projesi 2. Kısım - Stil Eklemek
-- [Gün 60:](https://github.com/phillipai/100-days-of-code-python/tree/main/day60) Flask ve HTML Formları ile POST İstekleri Yapma
-- [Gün 61:](https://github.com/phillipai/100-days-of-code-python/tree/main/day61) Flask-WTForms ile Gelişmiş Formlar Oluşturma
-- [Gün 62:](https://github.com/phillipai/100-days-of-code-python/tree/main/day62) Flask, WTForms, Bootstrap ve CSV - Kahve & Wifi Projesi
-- [Gün 63:](https://github.com/phillipai/100-days-of-code-python/tree/main/day63) Veritabanları ve SQLite ile SQLAlchemy
-- [Gün 64:](https://github.com/phillipai/100-days-of-code-python/tree/main/day64) En Sevdiğim 10 Film Web Sitesi
-- [Gün 65:](https://github.com/phillipai/100-days-of-code-python/tree/main/day65) İnsanların Seveceği Bir Web Sitesi Nasıl Oluşturulur
-- [Gün 66:](https://github.com/phillipai/100-days-of-code-python/tree/main/day66) RESTful Yönlendirme ile Kendi API'nizi Oluşturma
-- [Gün 67:](https://github.com/phillipai/100-days-of-code-python/tree/main/day67) Blog Capstone Projesi 3. Kısım - RESTful Yönlendirme
-- [Gün 68:](https://github.com/phillipai/100-days-of-code-python/tree/main/day68) Flask ile Kimlik Doğrulama
-- [Gün 69:](https://github.com/phillipai/100-days-of-code-python/tree/main/day69) Blog Capstone Projesi 4. Kısım - Kullanıcı Eklemek
-- [Gün 70:](https://github.com/phillipai/100-days-of-code-python/tree/main/day70) Web Uygulamanızı Heroku ile Dağıtma
-- [Gün 71:](https://github.com/phillipai/100-days-of-code-python/tree/main/day71) Pandas ile Veri Keşfi: Üniversite Bölümü vs. Maaşınız
-- [Gün 72:](https://github.com/phillipai/100-days-of-code-python/tree/main/day72) Matplotlib ile Veri Görselleştirme: Programlama Dilleri
-- [Gün 73:](https://github.com/phillipai/100-days-of-code-python/tree/main/day73) Pandas ile Veri Toplama ve Birleştirme: Lego Veri Setini Analiz Etme
-- [Gün 74:](https://github.com/phillipai/100-days-of-code-python/tree/main/day74) Google Trends Verisi: Zaman Serisini Yeniden Örnekleme ve Görselleştirme
-- [Gün 75:](https://github.com/phillipai/100-days-of-code-python/tree/main/day75) Güzel Plotly Grafikler ve Android Uygulama Mağazasını Analiz Etme
-- [Gün 76:](https://github.com/phillipai/100-days-of-code-python/tree/main/day76) NumPy ile Hesaplama ve N-Dimensional Diziler
-- [Gün 77:](https://github.com/phillipai/100-days-of-code-python/tree/main/day77) Lineer Regresyon ve Seaborn ile Veri Görselleştirme
-- [Gün 78:](https://github.com/phillipai/100-days-of-code-python/tree/main/day78) Plotly, Matplotlib & Seaborn ile Nobel Ödülünü Analiz Etme
-- [Gün 79:](https://github.com/phillipai/100-days-of-code-python/tree/main/day79) El Yıkamanın Trajik Keşfi: t-Testleri & Dağılımlar
-- [Gün 80:](https://github.com/phillipai/100-days-of-code-python/tree/main/day80) Capstone Projesi - Ev Fiyatlarını Tahmin Etme
+- [Gün 59:](srcs/day59) Blog Capstone Projesi 2. Kısım - Stil Eklemek
+- [Gün 60:](srcs/day60) Flask ve HTML Formları ile POST İstekleri Yapma
+- [Gün 61:](srcs/day61) Flask-WTForms ile Gelişmiş Formlar Oluşturma
+- [Gün 62:](srcs/day62) Flask, WTForms, Bootstrap ve CSV - Kahve & Wifi Projesi
+- [Gün 63:](srcs/day63) Veritabanları ve SQLite ile SQLAlchemy
+- [Gün 64:](srcs/day64) En Sevdiğim 10 Film Web Sitesi
+- [Gün 65:](srcs/day65) İnsanların Seveceği Bir Web Sitesi Nasıl Oluşturulur
+- [Gün 66:](srcs/day66) RESTful Yönlendirme ile Kendi API'nizi Oluşturma
+- [Gün 67:](srcs/day67) Blog Capstone Projesi 3. Kısım - RESTful Yönlendirme
+- [Gün 68:](srcs/day68) Flask ile Kimlik Doğrulama
+- [Gün 69:](srcs/day69) Blog Capstone Projesi 4. Kısım - Kullanıcı Eklemek
+- [Gün 70:](srcs/day70) Web Uygulamanızı Heroku ile Dağıtma
+- [Gün 71:](srcs/day71) Pandas ile Veri Keşfi: Üniversite Bölümü vs. Maaşınız
+- [Gün 72:](srcs/day72) Matplotlib ile Veri Görselleştirme: Programlama Dilleri
+- [Gün 73:](srcs/day73) Pandas ile Veri Toplama ve Birleştirme: Lego Veri Setini Analiz Etme
+- [Gün 74:](srcs/day74) Google Trends Verisi: Zaman Serisini Yeniden Örnekleme ve Görselleştirme
+- [Gün 75:](srcs/day75) Güzel Plotly Grafikler ve Android Uygulama Mağazasını Analiz Etme
+- [Gün 76:](srcs/day76) NumPy ile Hesaplama ve N-Dimensional Diziler
+- [Gün 77:](srcs/day77) Lineer Regresyon ve Seaborn ile Veri Görselleştirme
+- [Gün 78:](srcs/day78) Plotly, Matplotlib & Seaborn ile Nobel Ödülünü Analiz Etme
+- [Gün 79:](srcs/day79) El Yıkamanın Trajik Keşfi: t-Testleri & Dağılımlar
+- [Gün 80:](srcs/day80) Capstone Projesi - Ev Fiyatlarını Tahmin Etme
+
 
 ## ⚔ Profesyonel Portföy Projeleri
-- [Gün 81:](https://github.com/phillipai/100-days-of-code-python/tree/main/day81) Metni Morse Koduna Çevirici
-- [Gün 82:](https://github.com/phillipai/100-days-of-code-python/tree/main/day82) Portföy Web Sitesi
-- [Gün 83:](https://github.com/phillipai/100-days-of-code-python/tree/main/day83) XOX Oyunu
-- [Gün 84:](https://github.com/phillipai/100-days-of-code-python/tree/main/day84) Görüntü Filigranı Masaüstü Uygulaması
-- [Gün 85:](https://github.com/phillipai/100-days-of-code-python/tree/main/day85) Yazma Hızı Testi Uygulaması
-- [Gün 86:](https://github.com/phillipai/100-days-of-code-python/tree/main/day86) Breakout: Ünlü Arcade Oyunu
-- [Gün 87:](https://github.com/phillipai/100-days-of-code-python/tree/main/day87) Kafe ve Wifi Web Sitesi
-- [Gün 88:](https://github.com/phillipai/100-days-of-code-python/tree/main/day88) Yapılacaklar Ajanda Uygulaması
-- [Gün 89:](https://github.com/phillipai/100-days-of-code-python/tree/main/day89) Kaybolan Metin Yazma Uygulaması
-- [Gün 90:](https://github.com/phillipai/100-days-of-code-python/tree/main/day90) PDF'yi Sesli Kitaba Dönüştürme
-- [Gün 91:](https://github.com/phillipai/100-days-of-code-python/tree/main/day91) Görüntüden Renk Listesi Oluşturma
-- [Gün 92:](https://github.com/phillipai/100-days-of-code-python/tree/main/day92) Amazon Kanada Web Scraper
-- [Gün 93:](https://github.com/phillipai/100-days-of-code-python/tree/main/day93) Google Dinozor Oyun Botu
-- [Gün 94:](https://github.com/phillipai/100-days-of-code-python/tree/main/day94) Uzay İşgalleri
-- [Gün 95:](https://github.com/phillipai/100-days-of-code-python/tree/main/day95) Özel API
-- [Gün 96:](https://github.com/phillipai/100-days-of-code-python/tree/main/day96) Online Mağaza
-- [Gün 97:](https://github.com/phillipai/100-days-of-code-python/tree/main/day97) Yüzde Hesaplayıcı
-- [Gün 98:](https://github.com/phillipai/100-days-of-code-python/tree/main/day98) Uzay Yarışını Analiz Etme ve Görselleştirme
-- [Gün 99:](https://github.com/phillipai/100-days-of-code-python/tree/main/day99) Amerika Birleşik Devletleri'nde Polisin Yer Aldığı Ölümleri Analiz Etme
-- [Gün 100:](https://github.com/phillipai/100-days-of-code-python/tree/main/day100) Çok Değişkenli Regresyon ile Kazançları Tahmin Etme
+- [Gün 81:](srcs/day81) Metni Morse Koduna Çevirici
+- [Gün 82:](srcs/day82) Portföy Web Sitesi
+- [Gün 83:](srcs/day83) XOX Oyunu
+- [Gün 84:](srcs/day84) Görüntü Filigranı Masaüstü Uygulaması
+- [Gün 85:](srcs/day85) Yazma Hızı Testi Uygulaması
+- [Gün 86:](srcs/day86) Breakout: Ünlü Arcade Oyunu
+- [Gün 87:](srcs/day87) Kafe ve Wifi Web Sitesi
+- [Gün 88:](srcs/day88) Yapılacaklar Ajanda Uygulaması
+- [Gün 89:](srcs/day89) Kaybolan Metin Yazma Uygulaması
+- [Gün 90:](srcs/day90) PDF'yi Sesli Kitaba Dönüştürme
+- [Gün 91:](srcs/day91) Görüntüden Renk Listesi Oluşturma
+- [Gün 92:](srcs/day92) Amazon Kanada Web Scraper
+- [Gün 93:](srcs/day93) Google Dinozor Oyun Botu
+- [Gün 94:](srcs/day94) Uzay İşgalleri
+- [Gün 95:](srcs/day95) Özel API
+- [Gün 96:](srcs/day96) Online Mağaza
+- [Gün 97:](srcs/day97) Yüzde Hesaplayıcı
+- [Gün 98:](srcs/day98) Uzay Yarışını Analiz Etme ve Görselleştirme
+- [Gün 99:](srcs/day99) Amerika Birleşik Devletleri'nde Polisin Yer Aldığı Ölümleri Analiz Etme
+- [Gün 100:](srcs/day100) Çok Değişkenli Regresyon ile Kaz
+
 
 ## ⚙ Kapsanan Araçlar ve Teknolojiler
 
